@@ -43,3 +43,7 @@ restricted-textarea/
 ## License
 
 MIT
+
+## Acknowledgments
+
+[roadmap.sh](https://roadmap.sh/projects/restricted-textarea) for the project specification.
